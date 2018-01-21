@@ -256,7 +256,7 @@ sum = 0
 print("****************Now Review******************")
 for assitantChoice in range(num_people):
     name = data[choices[1]][0]
-    print("Enter Assistant review for AI: ")
+    print("Enter PLD review of " + name + " for AI: ")
     index = int(input())
     #calling blockchain
     blockchain_fun()
