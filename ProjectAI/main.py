@@ -166,7 +166,7 @@ def blockchain_fun():
                     chain = SimpleChain()
                     block = Block()
                     index = 0
-                    print("Please, enter your PLD review of " + name + " for the blockchain: ")
+                    print("Please, re-enter the same input for " + name + " to validate through the blockchain: ")
                     block.add_message(Message(input()))
                     if len(block.messages) > 0:
                             chain.add_block(block)
