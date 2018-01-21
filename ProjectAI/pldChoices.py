@@ -9,6 +9,9 @@ def pld_choices(data):
     from operator import itemgetter
     
     #get total score of PLD people
+    print("**************************************************")
+    print("SORT COMPLETE...")
+    print("**************************************************")
     data.sort(key=itemgetter(4))
     print(data)
 
