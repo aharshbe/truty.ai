@@ -1,5 +1,5 @@
 # Trusty, the peer AI for DoraHacks Hackathon
-## Student project to integrate AI and Blockchain
+#### Student project to integrate AI and Blockchain
 ## Contributers:
 - [Sidney Burkett](https://github.com/sidneyriffic) -- **AI & algorithm design expert & programmer**
 
